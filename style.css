@@ -1,0 +1,141 @@
+#signin{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 12px 28px;
+    background: #21B573;
+    border-radius: 33px;
+    color: white;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 19px;
+    width: 104px;
+    height: 43px;
+    left: 1201px;
+    top: 25px
+    
+}
+.whole{
+    position: absolute;
+    width: 1440px;
+    height: 576px;
+    left: 0px;
+    top: 0px;
+
+    background: #F0FFF0;
+}
+#red{
+    color: #FD511A;
+    
+}
+#greentext{
+    color: #21B573;
+}
+#motabanabo{
+    font-weight: 700;
+    
+}
+.topbutton{
+    color: white;
+    background-color: #21B573;
+    border-radius: 33px;
+    border: none;
+    position: static;
+    width: 130px;
+    height: 40px;
+    left: 36px;
+    top: 12px;
+    font-style: normal;
+    font-weight: normal;
+    font-size:16px;
+    line-height: 19px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 10px;
+
+    
+}
+
+.illustration img{
+    width: 100%;
+}
+#shadowdibo{
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+.nichedibo{
+    margin-top: 200px;
+}
+.books{
+    padding: 60px;
+}
+#book-1{
+    padding: 75px;
+}
+#book-2{
+    padding: 65px;
+}
+.card-title, .card-text{
+    text-align: center;
+}
+.nichedibo h2{
+    text-align: center;
+    font-weight: 700;
+}
+#halkaniche{
+    margin-top: 100px;
+}
+.paddibo{
+    padding:20px;
+}
+.buynow{
+    color: white;
+    position: static;
+    width: 120px;
+    height: 30px;
+    left: 28px;
+    top: 8px;
+    border: none;
+
+
+    background: #21B573;
+    border-radius: 33px;
+}
+.footerdesign small{
+    font-weight: 600;
+}
+.testimonial img{
+    
+    position: absolute;
+    width: 140px;
+    height: 140px;
+    left:260px;
+}
+#nichedibo{
+    margin-top: 50px;
+}
+.lastpart{
+    background: #282531;
+    position: absolute;
+    width: 1440px;
+    height: 369px;
+}
+.nicherrow{
+    color: white;
+    
+    
+}
+.tolenamaw{
+    margin-top: 100px;
+}
+.lideco{
+    list-style-type: none;
+}
+#kajsesh{
+    text-align: center;
+    color: white;
+    margin-top: 50px;
+    font-weight: normal;
+}
